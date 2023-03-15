@@ -1,0 +1,61 @@
+aiohttp==3.8.4
+aiosignal==1.3.1
+appdirs==1.4.4
+async-timeout==4.0.2
+attrs==22.2.0
+binance==0.3
+Bottleneck @ file:///Users/ec2-user/ci_py311/bottleneck_1678322312632/work
+Brotli @ file:///Users/ec2-user/ci_py311/brotli-split_1678379922007/work
+brotlipy==0.7.0
+cchardet @ file:///Users/runner/miniforge3/conda-bld/cchardet_1666947651875/work
+certifi==2022.12.7
+cffi @ file:///Users/ec2-user/ci_py311/cffi_1678315312775/work
+chardet @ file:///Users/ec2-user/ci_py311/chardet_1678326102860/work
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+click==8.1.3
+cryptography @ file:///Users/ec2-user/ci_py311/cryptography_1678315445643/work
+dash @ file:///Users/ec2-user/ci_py311/dash_1678410845018/work
+dateparser==1.1.7
+Flask @ file:///Users/ec2-user/ci_py311/flask_1678380788105/work
+Flask-Compress @ file:///Users/ec2-user/ci_py311/flask-compress_1678391154931/work
+frozenlist==1.3.3
+idna @ file:///Users/ec2-user/ci_py311/idna_1678315819133/work
+itsdangerous @ file:///tmp/build/80754af9/itsdangerous_1621432558163/work
+Jinja2 @ file:///Users/ec2-user/ci_py311/jinja2_1678317138271/work
+joblib==1.2.0
+MarkupSafe @ file:///Users/ec2-user/ci_py311/markupsafe_1678316973889/work
+multidict==6.0.4
+nltk==3.8.1
+numexpr @ file:///Users/ec2-user/ci_py311/numexpr_1678372811470/work
+numpy @ file:///Users/ec2-user/ci_py311/numpy_and_numpy_base_1678321341477/work
+oauthlib==3.2.2
+packaging @ file:///Users/ec2-user/ci_py311/packaging_1678315222315/work
+pandas==1.5.2
+patsy==0.5.3
+plotly @ file:///Users/ec2-user/ci_py311/plotly_1678382250051/work
+pooch @ file:///tmp/build/80754af9/pooch_1623324770023/work
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pycryptodome==3.17
+pyOpenSSL @ file:///opt/conda/conda-bld/pyopenssl_1643788558760/work
+PySocks @ file:///Users/ec2-user/ci_py311/pysocks_1678315868424/work
+python-binance==1.0.17
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+pytz @ file:///Users/ec2-user/ci_py311/pytz_1678318034461/work
+pytz-deprecation-shim==0.1.0.post0
+regex==2022.10.31
+requests==2.28.2
+requests-oauthlib==1.3.1
+scipy==1.10.0
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+statsmodels @ file:///Users/ec2-user/ci_py311/statsmodels_1678394299954/work
+tenacity @ file:///Users/ec2-user/ci_py311/tenacity_1678379368746/work
+textblob==0.17.1
+tqdm==4.65.0
+tweepy==4.13.0
+tzdata==2022.7
+tzlocal==4.2
+ujson==5.7.0
+urllib3==1.26.15
+websockets==10.4
+Werkzeug @ file:///Users/ec2-user/ci_py311/werkzeug_1678379455462/work
+yarl==1.8.2
